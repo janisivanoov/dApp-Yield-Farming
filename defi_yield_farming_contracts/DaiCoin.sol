@@ -13,7 +13,6 @@ contract DaiCoin{
         address indexed _to,
         uint256 _value
     );
-
     event Approval(
         address indexed _owner,
         address indexed _spender,
