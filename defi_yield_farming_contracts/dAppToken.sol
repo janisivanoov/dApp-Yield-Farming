@@ -1,6 +1,5 @@
 pragma solidity ^0.8.0;
 
-
 contract dAppToken {
     string public name = "MOCK dApp Token";
     string public symbol = "dApp";
